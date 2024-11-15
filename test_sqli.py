@@ -33,3 +33,6 @@ authenticate("' OR '1'='1", "anything")
 
 password = "dGhpc2lzYXBhc3N3b3JkCg=="
 print(password)
+
+aws_access_key = "AKIAIOSFODNN7EXAMPLE"
+aws_access_secret_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
