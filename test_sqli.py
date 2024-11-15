@@ -31,3 +31,5 @@ authenticate("admin", "password123")
 # password: anything
 authenticate("' OR '1'='1", "anything")
 
+password = "dGhpc2lzYXBhc3N3b3JkCg=="
+print(password)
